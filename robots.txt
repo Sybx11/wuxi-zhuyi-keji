@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sybx11.github.io/wuxi-zhuyi-keji/sitemap.xml
